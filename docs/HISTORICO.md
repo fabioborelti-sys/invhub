@@ -1,7 +1,7 @@
 # Histórico da evolução do InvHUB
 
-Do controle de patrimônio em planilha a um sistema web com coleta automática, em cerca
-de 3 semanas e 11 versões.
+Do controle de patrimônio em planilha a um sistema web com coleta automática. São mais
+de 5 semanas de desenvolvimento e 11 versões até agora. O projeto continua em desenvolvimento.
 
 [← Voltar para a página do projeto](../README.md)
 
@@ -108,7 +108,7 @@ precisava de vários usuários ao mesmo tempo, inclusive no celular, no estoque.
 
 <img src="img/11-previsao-de-toner.png" width="720">
 
-## v11 · Código de barras (versão final)
+## v11 · Código de barras (versão atual)
 
 - A câmera do celular lê **QR Code e código de barras**, também no iPhone e sem internet
 - Leitura por pistola: o código abre a ficha ou marca o item na conferência

@@ -9,7 +9,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-sem%20framework-F7DF1E?logo=javascript&logoColor=black">
   <img alt="PWA" src="https://img.shields.io/badge/PWA-5A0FC8?logo=pwa&logoColor=white">
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white">
-  <img alt="Status" src="https://img.shields.io/badge/status-concluído-2ea44f">
+  <img alt="Status" src="https://img.shields.io/badge/status-em%20desenvolvimento-f59e0b">
 </p>
 
 <p align="center">
@@ -39,8 +39,8 @@ dados dos computadores e das impressoras e avisa antes de o problema aparecer.
 
 | | |
 |---|---|
-| ⏱️ **Desenvolvimento** | cerca de 3 semanas, em 11 versões |
-| 🧪 **Testes automatizados** | 512 |
+| ⏱️ **Desenvolvimento** | mais de 5 semanas, 11 versões até agora |
+| 🧪 **Testes automatizados** | mais de 500 |
 | 🔌 **Rotas de API** | 144 |
 | 🗄️ **Tabelas no banco** | 35 |
 
