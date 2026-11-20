@@ -165,4 +165,4 @@ Universidade Veiga de Almeida (UVA).
 Projeto desenvolvido com auxílio de ferramentas de IA.
 
 Veja também o projeto **[Assinatura Local](https://github.com/fabioborelti-sys/assinatura-local)**,
-integrado ao InvHUB para assinar os termos de equipamento pelo celular.
+uma plataforma de assinatura eletrônica de documentos pelo celular.
